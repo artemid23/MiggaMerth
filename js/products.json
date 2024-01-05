@@ -9,7 +9,7 @@
 	},
 	{
 		"id": 2,
-		"title": "Обложка на студенческий билет",
+		"title": "Обложка",
 		"itemsInBox": "0002",
 		"weight": "",
 		"price": 500,
@@ -25,9 +25,9 @@
 	},
 	{
 		"id": 4,
-		"title": "Футболка Work Hard",
+		"title": "Футболка",
 		"itemsInBox": "0004",
-		"weight": "Размер:M",
+		"weight": "",
 		"price": 2400,
 		"imgSrc": "IMG_20230715_103601.png"
 	},
@@ -49,9 +49,9 @@
 	},
 	{
 		"id": 7,
-		"title":"Бомбер Work Hard",
+		"title":"Бомбер",
 		"itemsInBox": "0007",
-		"weight": "Размер:M",
+		"weight": "",
 		"price": 3000,
 		"imgSrc": "photo_2023-07-15_09-48-19.jpg"
 	},
